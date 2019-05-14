@@ -1,3 +1,3 @@
 require "./logger"
 
-Loggeer.instance.log "Good job!"
+Loggeer.instance.log "It`s work!"
